@@ -1,4 +1,4 @@
-# Embedded-Temperature-Control-System
+# Completed Embedded-Temperature-Control-System
 
 This project was developed as part of my Embedded Systems learning journey
 
