@@ -9,6 +9,13 @@ The aim of the project was to gain practical experience with sensors, motor cont
 
 ## Demonstration Videos
 
-The project demonstration videos are available here: 
+A folder containing demonstrations of:
+- Manual Mode
+- Automatic Mode
+- LCD Interface
+- RGB Status Indicators
+- PWM Motor Control
 
-https://drive.google.com/drive/folders/189uO3nMkzzMDQIm9KWld_5t2f4Ptdly3?usp=sharing
+is available here:
+
+[Google Drive Demo Folder] ( https://drive.google.com/drive/folders/189uO3nMkzzMDQIm9KWld_5t2f4Ptdly3?usp=sharing )
